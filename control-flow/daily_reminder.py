@@ -35,3 +35,5 @@ def daily_reminder():
 
 if __name__ == "__main__":
     daily_reminder()
+ 
+/tmp/correction/2651284051706453085597690455060958829579_5/100740/1321288/control-flow/daily_reminder.py doesn't contain print\s*\(\s*f?['\"]Reminder:\s*   
